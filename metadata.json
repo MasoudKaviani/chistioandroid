@@ -1,0 +1,6 @@
+{
+  "name": "chistio",
+  "description": "Full-screen webview of https://chistio.ir",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
